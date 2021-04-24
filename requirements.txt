@@ -1,6 +1,5 @@
 discord
 pandas
-random
 numpy
 asyncio
 pathlib
